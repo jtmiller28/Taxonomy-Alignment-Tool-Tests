@@ -14,14 +14,6 @@ datasets:
 taxonomies:
     - id: col
       name: Catalogue of Life
-    - id: gbif
-      name: GBIF Backbone Taxonomy
-    - id: itis
-      name: Integrated Taxonomic Information System
-    - id: ncbi
-      name: NCBI Taxonomy
-    - id: globi
-      name: GloBI Taxon Graph
 ---
 
 # Name Alignment
