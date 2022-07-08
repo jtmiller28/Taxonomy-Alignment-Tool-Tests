@@ -7,8 +7,8 @@ datasets:
       type: text/csv
 #   - url: https://example.org/data.tsv
 #     type: text/tab-separated-values
-   - url: https://serv.biokic.asu.edu/ecdysis/content/dwca/UCSB-IZC_DwC-A.zip
-     type: application/dwca
+  # - url: https://serv.biokic.asu.edu/ecdysis/content/dwca/UCSB-IZC_DwC-A.zip
+      # type: application/dwca
    # - url: https://example.org/rss.xml
       # type: application/rss2+xml
 taxonomies:
