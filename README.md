@@ -14,6 +14,8 @@ datasets:
 taxonomies:
     - id: col
       name: Catalogue of Life
+    - id: itis
+      name: Integrated Taxonomic Information System
 ---
 
 # Name Alignment
