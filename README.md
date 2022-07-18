@@ -3,8 +3,8 @@
 # a url without scheme like https:// (e.g., ```url: foodorganisms.txt```) 
 # is assumed to be a local file in working directory
 datasets:
-    - url: Extended-Bee-Name-List.csv
-      type: text/tab
+    - url: Extended-Bee-Name-List.csv 
+      type: text/csv
 #   - url: https://example.org/data.tsv
 #     type: text/tab-separated-values
 #   - url: https://serv.biokic.asu.edu/ecdysis/content/dwca/UCSB-IZC_DwC-A.zip
